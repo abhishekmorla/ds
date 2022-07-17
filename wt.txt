@@ -1,0 +1,35 @@
+theory : 
+Analysis of Algorithms
+strings
+backtracking
+dp
+greedy
+
+
+
+
+Done Questions:
+array
+linkelist
+search 
+sort
+recursion - thoda .
+bitwise - thoda . 
+
+
+. = kunal
+
+
+left questions : 
+Hashing gfg
+Strings . 
+Stack .
+Queue .
+Dequeue 
+Tree  gfg
+Binary Search Tree gfg
+Heap gfg
+Graph gfg
+Greedy Algorithms gfg 
+Dynamic Programming gfg
+Backtracking Algorithms .
